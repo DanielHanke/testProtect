@@ -1,2 +1,2 @@
 # testProtect
-Test protection rules 1
+Test protection rules 2
