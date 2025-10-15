@@ -7,4 +7,4 @@ New line!
  Comentado a pedido del reviewer!
 */
 
-Modificnado el readme necesitaria aprobacion, por las reglas classic!
+Modificando el readme que necesitaria aprobacion, por las reglas classic!
